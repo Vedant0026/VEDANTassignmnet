@@ -49,7 +49,7 @@ int main() {
             s[i].grade = 'F';
     }
 
-    printf("\n----- Student Results -----\n");
+    printf("\n Student Results \n");
 
     for(i = 0; i < n; i++) {
         printf("\nStudent %d\n", i + 1);
